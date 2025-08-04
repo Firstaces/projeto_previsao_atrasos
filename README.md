@@ -31,7 +31,7 @@ O modelo atingiu **95% de acurácia** e foi avaliado com base na comparação en
 
 ### Visual do Dashboard (Power BI):
 
-![Dashboard]("C:\Users\andre\OneDrive\Imagens\Screenshots\Dashboard_Previsao_Atrasos.png")
+![Dashboard](Dashboard_Previsao_Atrasos.png)
 
 
 
